@@ -1,14 +1,16 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Bio
 headless: true
 weight: 20
 title: ""
-active: true
-author: admin
 design:
   background:
-    gradient_start: "#0b8726"
+    gradient_start: "#fbfbfb"
     gradient_end: "#ffffff"
-    image: headshot.png
+    image: ""
+    color: "#ffffff"
 ---
+Test
