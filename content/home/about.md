@@ -1,12 +1,8 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
+author: admin
+widget_id: Bio
 headless: true
 
 # Order that this section appears on the page.
@@ -19,3 +15,4 @@ title:
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+Test
