@@ -8,7 +8,7 @@ active: true
 author: admin
 design:
   background:
-    gradient_start: "#2baf48"
+    gradient_start: "#0b8726"
     gradient_end: "#ffffff"
     image: headshot.png
 ---
