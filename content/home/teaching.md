@@ -15,7 +15,7 @@ design:
 
 * Summer 2021
     * PSC 2101: Scope and Methods of Political Science (Online)
-    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/PSC2101 Syllabus, SM21, Heern - V2.pdf" "newtab" >}}Syllabus{{< /staticref >}}.
+    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/PSC2101 Syllabus, SM21, Heern - V2.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 
 ## Additional Graduate Instruction
 
