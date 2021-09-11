@@ -21,7 +21,7 @@ design:
 
 * August 2020
     * Head Instructor - Incoming PhD Cohort Math Camp
-    * Developed curriculum and lectured for one week course for incoming PhD students ranging from review of algebra and calculus to basics of regression analysis and causal inference to an introduction to statistical processing and reference management software  
+    * Developed curriculum and lectured for one week course for incoming PhD students. Materials ranged from review of algebra and calculus to basics of regression analysis and causal inference to an introduction to statistical processing and reference management software.  
 * August 2019
     * Head Instructor - Incoming PhD Cohort Math Camp
 
@@ -29,7 +29,7 @@ design:
 
 *  Fall 2014 - Spring 2017
     *  Teacher's Assistant (For full list of courses see CV)
-    *  Revised syllabi, wrote and graded assignments, quizzes, and tests, pulled reading materials, managed gradebooks, among other miscellaneous responsibilities for coordinating undergraduate courses
+    *  Wrote syllabi, composed and graded assignments, quizzes, and tests, pulled reading materials, managed gradebooks, among other miscellaneous responsibilities for coordinating undergraduate courses
 
 ## Course Evaluation Excerpts
 
