@@ -30,3 +30,11 @@ design:
 *  Fall 2014 - Spring 2017
     *  Teacher's Assistant (For full list of courses see CV)
     *  Revised syllabi, wrote and graded assignments, quizzes, and tests, pulled reading materials, managed gradebooks, among other miscellaneous responsibilities for coordinating undergraduate courses
+
+## Course Evaluation Excerpts
+
+*  "The real-world application was well explained and the homework felt applicable to the course work and helped me better understand what we were talking about - not busy work. The professor was easy to reach and very helpful. His feedback was always encouraging and constructive."
+
+*  "Great teacher. Managed an asynchronous lecture well. Assignments were well developed and feedback was helpful."
+
+*  "The instructor covered the topics thoroughly and explained them very well. Also easy to reach and flexible."
