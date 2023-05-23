@@ -26,6 +26,7 @@ interests:
 - Energy Politics and Policy
 - Executive and Legislative Branch Behavior
 - State Politics
+- Climate Obstruction
 
 # Education to show in About widget
 education:

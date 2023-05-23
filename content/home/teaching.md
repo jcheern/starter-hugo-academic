@@ -11,10 +11,10 @@ design:
   columns: '1'
 ---
 
-## Courses
+## Instructor of Record
 
-* Summer 2021
-    * PSC 2101: Scope and Methods of Political Science (Online)
+* George Washington University
+    * PSC 2101: Scope and Methods of Political Science (Summer 2021, Online)
     * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/PSC2101 Syllabus, SM21, Heern - V2.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 
 
@@ -29,8 +29,9 @@ design:
 
 ## Additional Instruction
 
-* August 2020
-    * Head Instructor - Incoming PhD Cohort Math Camp
+* Brown University
+    * Assistant Instructor, ENVS 1574: Climate Policy Research: Organizations and Obstruction, Fall 2022, 2023
+* George Washington University
+    * Head Instructor, Incoming PhD Cohort Math Camp, August 2019, 2020
     * Developed curriculum and lectured for one week course for incoming PhD students. Materials ranged from review of algebra and calculus to basics of regression analysis and causal inference to an introduction to statistical processing and reference management software.  
-* August 2019
-    * Head Instructor - Incoming PhD Cohort Math Camp
+

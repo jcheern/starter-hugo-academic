@@ -11,22 +11,28 @@ design:
   columns: '1'
 ---
 
+
+## Peer-Reviewed Publications
+
+Heern, Jared. “Who’s Regulating Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” (Accepted for publication at *Energy Research & Social Science*).
+
+
 ## Working Papers
 
-“Who's Regulating Climate Change? The Partisanship of Public Utility Commissions, 2000-2020.” (Under Review)
-
-“The Professional Backgrounds of Public Utility Commissioners and Implications for Climate Change Regulation.”  (Under Review)
+"The Partisanship of Public Utility Commissions, 2000-2020.” (Invited to Revise and Resubmit at *Environmental Politics*)
 
 “Partisanship and the Environmental Policy Decisions of Public Utility Commissions.”
+
+“Legislative Control of State Public Utility Commission Climate Policy Decisions.”
 
 
 ## Ongoing Projects
 
-“Legislative Control of State Public Utility Commission Climate Policy Decisions.”
-
 “Who Gets Their Way in Public Utility Commission Decisions? Strategies and Outcomes in Net Metering Conflicts.”
 
-“Unbalanced Resources and Information Asymmetries: Public Utility Commissions as Unfair Arenas.”
+“The Role of Expert Staff in Regulatory Decisionmaking.”
+
+“The Democratization of Electricity Bills: Public Access to Utility Regulation.” with J. Timmons Roberts.
 
 
 ## Dissertation
