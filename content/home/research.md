@@ -14,7 +14,7 @@ design:
 
 ## Peer-Reviewed Publications
 
-Heern, Jared. “Who’s Regulating Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” (Accepted for publication at *Energy Research & Social Science*).
+Heern, Jared. 2023. “Who’s Controlling Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” Energy Research & Social Science 101: 103091.
 
 
 ## Working Papers
