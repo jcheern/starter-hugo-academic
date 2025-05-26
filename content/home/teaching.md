@@ -18,9 +18,9 @@ design:
 	* ES 100B: Intro ES: Environmental Politics	(Spr2025, Spr2026)
 	* GOV/ES 251: Environmental Activism & Political Impact (Spr2026)
 	* GOV/ES 258: U.S. Environmental Policy & Politics (F2024, Spr2025, Spr2026)
-    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Gov:ES 258 Syllabus, S25.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/258 Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 	* GOV/ES 494B: Climate Politics and Equity Seminar (Spr2025, F2025)
-    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/GOV:ES 494B Syllabus, S25 - April.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+    * {{< icon name="download" pack="fas" >}} {{< staticref "uploads/494 Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 	* GOV 492: Independent Study Advisor (F2025)
 
 * George Washington University
