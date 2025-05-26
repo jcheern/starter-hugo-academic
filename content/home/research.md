@@ -17,22 +17,26 @@ design:
 Heern, Jared. 2023. “Who’s Controlling Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” Energy Research & Social Science 101: 103091. 
 
 
+
 ## Working Papers
 
-"The Partisanship of Public Utility Commissions, 2000-2020.” (Invited to Revise and Resubmit at *Environmental Politics*)
+“Partisan Climate Appointments: U.S. Governors and State Public Utility Commissions, 2000-2020.” (Invited to Revise and Resubmit at Environmental Politics).
+
+“Where’s the Public in Public Utility Commission Decisions? Public Influence in Rooftop Solar Conflicts.” With Anthony Bishop-Gylys and J. Timmons Roberts (Invited to Revise and Resubmit at Utilities Policy)
+
+“Regulatory Capture at Public Utility Commissions." With Michelle Graff and Gabe Chan
 
 “Partisanship and the Environmental Policy Decisions of Public Utility Commissions.”
 
-“Legislative Control of State Public Utility Commission Climate Policy Decisions.”
+“Legislative Control of State Public Utility Commission Climate Policy.”
+
+
 
 
 ## Ongoing Projects
 
-“Who Gets Their Way in Public Utility Commission Decisions? Strategies and Outcomes in Net Metering Conflicts.”
+“Public Utility Commission Reform, Equity, and Climate Change in New England.” with J. Timmons Roberts
 
-“The Role of Expert Staff in Regulatory Decisionmaking.”
-
-“The Democratization of Electricity Bills: Public Access to Utility Regulation.” with J. Timmons Roberts.
 
 
 ## Dissertation

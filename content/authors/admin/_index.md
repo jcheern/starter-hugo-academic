@@ -6,17 +6,13 @@ title: Jared Heern
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate in Environment and Society
+role: Visiting Assistant Professor of Government and Environmental Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Brown University
+- name: Connecticut College
 
-  url: https://ibes.brown.edu/
-
-- name: Climate Social Science Network
-
-  url: https://cssn.org/climate-social-science-network-announces-fall-2022-postdoctoral-fellow-jared-heern/
+  url: https://www.conncoll.edu/academics/majors-departments-programs/departments/government/faculty--staff/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,7 +22,7 @@ interests:
 - Energy Politics and Policy
 - Executive and Legislative Branch Behavior
 - State Politics
-- Climate Obstruction
+- Climate Change Obstruction
 
 # Education to show in About widget
 education:
@@ -47,7 +43,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: mailto:jared_heern@brown.edu
+  link: mailto:jheern@conncoll.edu
 
 - icon: linkedin
   icon_pack: fab
@@ -72,7 +68,9 @@ email:
 highlight_name: false
 ---
 
-Welcome! I am a Postdoctoral Research Associate in Environment and Society at Brown University, also affiliated with the Climate Social Science Network. I received a Ph.D. in Political Science as a Policy Studies Endowment Fellow at George Washington University in August 2022. Originally from rural Southern Illinois, I earned a B.A. in Political Science with minors in environmental studies and biology from Truman State University in Northeast Missouri. Growing up in an area developed through the coal industry, but surrounded by a national forest and state parks, I was driven to better understand the balancing act between the energy industry and environmental protection. This guided my research as an undergraduate and was further influenced by nine months working in all three branches of the Missouri government. I primarily worked with state utility regulation and energy policy in the Missouri Senate and Department of Natural Resources. 
+Welcome! I am entering my second year as a Visiting Assistant Professor of Government and Environmental Studies at Connecticut College. Formerly, I was a Postdoctoral Research Associate in Environment and Society at Brown University, also affiliated with the Climate Social Science Network and a Senior Researcher with Timmons Roberts' Climate and Development Lab. I received a Ph.D. in Political Science as a Policy Studies Endowment Fellow at George Washington University in August 2022. 
+
+Originally from rural Southern Illinois, I earned a B.A. in Political Science with minors in environmental studies and biology from Truman State University in Northeast Missouri. Growing up in an area developed through the coal industry, but surrounded by a national forest and state parks, I was driven to better understand the balancing act between the energy industry and environmental protection. This guided my research as an undergraduate and was further influenced by nine months working in all three branches of the Missouri government. I primarily worked with state utility regulation and energy policy in the Missouri Senate and Department of Natural Resources. 
 
 My research is generally concerned with better understanding how and why the federal and state governments address (or do not address) climate change. I focus on energy and environmental politics and policy, primarily in the contexts of executive and legislative branch behavior, partisanship, interest groups, and public opinion and representation. 
 
