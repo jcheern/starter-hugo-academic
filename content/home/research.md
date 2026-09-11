@@ -14,7 +14,7 @@ design:
 
 ## Peer-Reviewed Publications
 
-Heern, Jared. 2023. “Who’s Controlling Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” Energy Research & Social Science 101: 103091.
+*  Heern, Jared. 2023. “Who’s Controlling Our Energy Future? Industry and Environmental Representation on United States Public Utility Commissions.” Energy Research & Social Science 101: 103091.
 
     *  **Media Coverage:** [LA Times](https://www.latimes.com/environment/newsletter/2023-06-08/the-revolving-door-at-public-utilities-commissions-its-alive-and-well-boiling-point), [New Republic](https://newrepublic.com/post/173692/fossil-fuel-industry-veterans-regulate-electricity), [Energy News Network](https://www.canarymedia.com/articles/enn/who-decides-where-we-get-electricity-and-how-much-we-pay-mostly-white-politically-connected-men), [Utility Dive](https://www.utilitydive.com/news/utility-regulators-experience-environmental-issues/652568/)
 
